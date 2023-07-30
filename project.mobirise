@@ -614,6 +614,9 @@
             },
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
+            },
+            ".mbr-text": {
+              "color": "#fafafa"
             }
           },
           "_name": "content5",
