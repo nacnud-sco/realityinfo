@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 4.45rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 5.5625rem;
 }
 .display-2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 3.2rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 4rem;
 }
 .display-4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 1.7rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.125rem;
 }
 .display-7 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -595,7 +595,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -609,7 +609,7 @@ a:hover {
   border-color: #149dcc !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Red Hat Text', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   font-weight: 400;

@@ -13,15 +13,15 @@
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "Roboto",
+        "display1Font": "Red Hat Text",
         "display1Size": "4.45",
-        "display2Font": "Roboto",
+        "display2Font": "Red Hat Text",
         "display2Size": "3.2",
-        "display5Font": "Roboto",
+        "display5Font": "Red Hat Text",
         "display5Size": "1.7",
-        "display7Font": "Roboto",
+        "display7Font": "Red Hat Text",
         "display7Size": "1.2",
-        "display4Font": "Roboto",
+        "display4Font": "Red Hat Text",
         "display4Size": "1",
         "isRoundedButtons": true,
         "isGhostButtonBorder": false,
@@ -81,6 +81,21 @@
         "css": "'Roboto Slab', serif",
         "name": "Roboto Slab",
         "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'B612', sans-serif",
+        "name": "B612",
+        "url": "https://fonts.googleapis.com/css?family=B612:400,400i,700,700i"
+      },
+      {
+        "css": "'Mako', sans-serif",
+        "name": "Mako",
+        "url": "https://fonts.googleapis.com/css?family=Mako:400"
+      },
+      {
+        "css": "'Red Hat Text', sans-serif",
+        "name": "Red Hat Text",
+        "url": "https://fonts.googleapis.com/css?family=Red+Hat+Text:300,400,500,600,700,300i,400i,500i,600i,700i"
       }
     ],
     "uniqCompNum": 107,
@@ -89,7 +104,7 @@
     "favicon": false,
     "noImageResize": "",
     "imageResize": true,
-    "mbrsiteDomain": "hmjmxwjtcf",
+    "mbrsiteDomain": "brxtghxtxm",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
